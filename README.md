@@ -29,4 +29,9 @@
 - DBMS : MySQL
 - 클라이언트와 서버간의 데이터 통신 : Ajax
 - Calendar와 Chart : TOAST UI
+- editor : VS Code
 
+
+## 시스템 흐름도
+
+<img src="https://user-images.githubusercontent.com/60126161/104424602-ee012180-55c2-11eb-9cf2-04f99a509205.png" width="50%">
